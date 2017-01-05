@@ -1,0 +1,17 @@
+{
+  "name": "random-cat",
+  "homepage": "https://github.com/jekku/random-cat",
+  "authors": [
+    "jekku <jekripreclaroorlina@gmail.com>"
+  ],
+  "description": "Random cats!",
+  "main": "index.html",
+  "keywords": [
+    "random",
+    "cat"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
